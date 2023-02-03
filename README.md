@@ -14,7 +14,7 @@ O decodificador de texto é um projeto proposto pelo Challenge 1 da turma 4 do p
 
 <br> 
 
-<p align= "center"> este projeto recebeu o badge oficial da Alura
+<p align= "center"> Este projeto recebeu o badge oficial da Alura
 <br>
 <img alt="badge oficial da Alura" src="./github/badge.png">
 
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Este projeto foi proposto pelo Challenge 1, nosso objetivo era criar uma página que codifica/decodifica textos com base nas instruções do trello disponibilizado pela equipe da Alura/Oracle Next Education.
+O projeto foi proposto pelo Challenge 1, nosso objetivo era criar uma página que codifica/decodifica textos com base nas instruções do trello disponibilizado pela equipe da Alura/Oracle Next Education.
 
 
 - [Clique aqui para visualizar o projeto online](https://arthur-gabriel-silva2003.github.io/decodificador-de-textos/)
