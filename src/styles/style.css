@@ -1,0 +1,178 @@
+/* configurações gerais */ 
+
+
+* {
+    font-family: 'VT323', monospace;
+
+
+
+}
+
+
+body {
+    background-color: #d1d5db;
+}
+
+
+/* cabeçalho */ 
+
+
+header {
+    display: flex;
+    width: 800px;
+    margin: 0 50px;
+    
+}
+
+
+
+
+header img {
+    width: 120px;
+}
+
+header h1 {
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    height: 80px;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'VT323', monospace;
+    transition: 500ms all;
+}
+
+header h1:hover {
+    transform: scale(1.05);
+    color: #d1d5db;
+    cursor: pointer
+}
+
+
+/* área principal */ 
+
+
+
+main {
+    
+    margin: 0 100px;
+}
+
+/* primeiro fieldset */ 
+
+
+
+.texto1 {
+    
+    width: 40%;
+    height: 400px;
+    margin: 0;
+}
+
+.texto1 button {
+    width: 30%;
+    font-size: 30px;
+    padding: 15px 0;
+    margin: 30px 20px;
+    background-color: #93c5fd;
+   
+}
+
+.texto1 button:hover {
+    cursor: pointer;    
+}
+
+.texto1 button:active {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.texto1 legend {
+    position: absolute;
+    margin-top: 5px;
+    
+}
+
+.secret-message {
+    margin-top: 20px;
+    padding: 5px 20px;
+    width: 80%;
+    height: 350px;
+    display: block;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-transform: lowercase;
+    
+}
+
+
+
+/* segundo fieldset */
+
+
+
+
+.texto2 {
+    width: 40%;
+    margin-left: 500px;
+    position: absolute;
+    top: 140px;
+}
+
+.texto2 img {
+    float: right;
+    position: absolute;
+    top: 50px;
+    width: 450px;
+    left: 310px;
+}
+
+.texto2 button {
+    display: block;
+    width: 50%;
+    padding: 15px 0;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 30px;
+    background-color: #93c5fd;
+    transition: 300ms all;
+    
+}
+
+.texto2 button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+
+.message {
+    padding: 5px 20px;
+    width: 60%;
+    height: 350px;  
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+
+/* rodapé com minhas informações */
+
+footer {
+    position: absolute;
+    display: flex;
+    top: 620px;
+    width: 100%;
+    justify-content: center;
+    padding: 5px 0;
+    background-color: #93c5fd;
+}
+
+footer p {
+    font-weight: bold;
+}
+
+footer a {
+    margin: 0 5px;
+}
