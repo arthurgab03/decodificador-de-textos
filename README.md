@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 O projeto foi proposto pelo Challenge 1, nosso objetivo era criar uma página que codifica/decodifica textos com base nas instruções do trello disponibilizado pela equipe da Alura/Oracle Next Education.
 
 
-- [Clique aqui para visualizar o projeto online](https://arthur-gabriel-silva2003.github.io/decodificador-de-textos/)
+- [Clique aqui para visualizar o projeto online](https://arthurgab03.github.io/decodificador-de-textos/)
 
 
 
